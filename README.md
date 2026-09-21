@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
