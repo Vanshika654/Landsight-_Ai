@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
@@ -26,18 +27,21 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -57,4 +61,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
