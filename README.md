@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -25,11 +26,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
