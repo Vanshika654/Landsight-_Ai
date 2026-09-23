@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
