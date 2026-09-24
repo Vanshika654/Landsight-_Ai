@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
