@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0704-binary-search) |
 ## Dynamic Programming
