@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
