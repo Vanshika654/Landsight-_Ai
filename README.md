@@ -65,6 +65,7 @@
 | [0031-next-permutation](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
@@ -103,5 +104,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
