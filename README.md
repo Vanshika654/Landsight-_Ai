@@ -31,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -106,4 +107,9 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
