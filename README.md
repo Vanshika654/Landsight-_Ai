@@ -39,6 +39,7 @@
 | [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,9 +109,14 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
