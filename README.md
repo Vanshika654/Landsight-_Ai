@@ -68,6 +68,7 @@
 | [0075-sort-colors](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1910-remove-all-occurrences-of-a-substring) |
