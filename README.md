@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -123,4 +125,24 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
