@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
