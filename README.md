@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
