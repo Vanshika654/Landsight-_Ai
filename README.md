@@ -66,6 +66,7 @@
 | [0009-palindrome-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vanshika654/Landsight-_Ai/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -156,4 +159,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0074-search-a-2d-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vanshika654/Landsight-_Ai/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
